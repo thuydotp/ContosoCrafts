@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "XgCGIqfK5bHQ1gm9s4vO/D9f91rq18Ozrp9fpOMkZk6NKTL4vCkwsJt4W7TWbjVHDknU8sNG+IELS3TwouTfEw==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\.NETCore\\Asp.NetCore\\ContosoCrafts\\ContosoCrafts.WebSite\\ContosoCrafts.WebSite.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\phuon\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\3.1.5\\microsoft.netcore.app.runtime.win-x64.3.1.5.nupkg.sha512",
+    "C:\\Users\\phuon\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\3.1.5\\microsoft.windowsdesktop.app.runtime.win-x64.3.1.5.nupkg.sha512",
+    "C:\\Users\\phuon\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\3.1.5\\microsoft.aspnetcore.app.runtime.win-x64.3.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
